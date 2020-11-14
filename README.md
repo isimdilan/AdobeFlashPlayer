@@ -4,6 +4,7 @@ This application I made using Adobe flash player, with using actions.
 There is a list on the phone screen and some fruits on the screen. When the fruit is clicked, a check tick appears next to the fruit in the list.
 
 ![flash2](https://user-images.githubusercontent.com/72500382/99132048-fa4e1a00-2625-11eb-997c-8a6c8233b0f3.png)
+
 /* Mouse Click Event
 Clicking on the specified symbol instance executes a function in which you can add your own custom code.
 
